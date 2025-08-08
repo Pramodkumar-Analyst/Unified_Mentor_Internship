@@ -14,7 +14,7 @@ The internship was designed to strengthen my knowledge and hands-on experience i
 - Real-world problem-solving using data
 
 ## 🛠 Tools & Technologies Used
-- **Microsoft Excel** – Data cleaning, pivot tables, and basic visualizations
+- **Python** – Data cleaning and basic visualizations
 - **SQL** – Data extraction, transformation, and analysis
 - **Power BI** – Interactive dashboards and visualizations
 - **Data Cleaning Techniques** – Handling missing data, duplicates, and inconsistencies
@@ -37,7 +37,3 @@ By the end of the internship, I was able to:
 
 ## 📌 Acknowledgements
 I would like to thank **Unified Mentor** for providing guidance, mentorship, and valuable feedback throughout the program.
-
----
-**Author:** [Your Name]  
-**LinkedIn:** [Your LinkedIn Profile Link]
