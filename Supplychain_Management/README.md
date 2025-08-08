@@ -18,3 +18,5 @@ The goal of this analysis was to understand **key supply chain metrics**, identi
 - Highlighted seasonal demand fluctuations.
 - Created KPI cards for quick supply chain health checks.
 
+## Dashboard
+![Dashboard](https://github.com/Pramodkumar-Analyst/Unified_Mentor_Internship/blob/main/Supplychain_Management/Dashboard.PNG)
