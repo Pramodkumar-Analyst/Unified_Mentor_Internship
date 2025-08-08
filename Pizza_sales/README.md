@@ -19,3 +19,6 @@ The goal of this analysis was to identify **top-selling products**, track **sale
 - Tracked **revenue contribution** by pizza category and size.
 - Created **KPI cards** for quick performance tracking.
 
+
+## Dashboard
+![Dashboard](https://github.com/Pramodkumar-Analyst/Unified_Mentor_Internship/blob/main/Pizza_sales/Dashboard.PNG)
