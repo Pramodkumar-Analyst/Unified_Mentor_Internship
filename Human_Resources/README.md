@@ -1,4 +1,4 @@
-# 👩‍💼 HR Data Analysis
+# HR Data Analysis
 
 ## 📌 Project Overview
 This project focuses on analyzing HR data to uncover workforce trends, measure employee performance, and support data-driven HR decision-making.  
@@ -18,3 +18,5 @@ The goal of this analysis was to understand **employee metrics**, track retentio
 - Measured average employee tenure and job satisfaction scores.  
 - Built KPI cards to quickly assess workforce health.  
 
+## Dashboard
+![Dashboard](https://github.com/Pramodkumar-Analyst/Unified_Mentor_Internship/blob/main/Human_Resources/Dashboard.PNG)
