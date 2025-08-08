@@ -1,7 +1,8 @@
 # Unified Mentor Data Analyst Internship Program
 
 This repository contains the work completed during my **Data Analyst Internship** with **Unified Mentor**.  
-The program focused on developing practical skills in **data collection, cleaning, analysis, and visualization**.
+The program focused on developing practical skills in **data collection, cleaning, analysis, and visualization**
+</br>
 As well as working on real-world projects.
 
 ## 📚 Overview
