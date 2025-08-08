@@ -28,12 +28,3 @@ The goal of this analysis was to understand **key financial metrics**, track per
 ---
 
 ## 📊 Dashboard Preview
-
----
-
-## 📚 Skills Learned
-- Data cleaning & transformation (Excel, Power Query).
-- Writing SQL queries for financial metrics.
-- Designing interactive dashboards in Power BI.
-- Translating raw data into actionable insights.
-
