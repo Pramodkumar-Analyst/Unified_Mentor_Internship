@@ -3,14 +3,8 @@
 ## 📌 Project Overview
 This project focuses on analyzing financial data to extract meaningful insights, identify patterns, and visualize trends.  
 It is part of my learning journey in **Data Analytics** where I practiced data cleaning, transformation, and visualization techniques using **Python and Power BI**.
-
 The goal of this analysis was to understand **key financial metrics**, track performance, and present findings in an interactive dashboard.
 
----
-
-## 📂 Dataset
-- **Source:** 
----
 
 ## 🛠 Tools & Technologies
 - **Python** → Data cleaning, pivot tables, and initial analysis.
