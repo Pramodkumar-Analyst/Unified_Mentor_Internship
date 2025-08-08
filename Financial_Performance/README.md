@@ -18,7 +18,3 @@ The goal of this analysis was to understand **key financial metrics**, track per
 - Calculated profit margins and expense ratios.
 - Highlighted seasonal sales patterns.
 - Created KPI cards for quick financial health checks.
-
----
-
-## 📊 Dashboard Preview
